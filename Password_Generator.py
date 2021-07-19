@@ -1,5 +1,3 @@
-# Generates random passwords and stores them in a .csv file named Generated_Passwords.csv.
-
 import random
 import os
 import pandas as pd
